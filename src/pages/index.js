@@ -4,7 +4,7 @@ import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import "bootstrap/dist/css/bootstrap.min.css"
 import "../../style.css"
 
-const Index = ({ data }) => {
+const index = ({ data }) => {
   const posts = data.allContentfulPost.edges
 
   return (
@@ -61,4 +61,4 @@ export const query = graphql`
   }
 `
 
-export default Index
+export default index
