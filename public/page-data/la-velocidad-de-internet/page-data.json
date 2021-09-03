@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-project-details-js",
+    "path": "/la-velocidad-de-internet",
+    "result": {"data":{"contentfulPost":{"titulo":"La velocidad de internet","slug":"la-velocidad-de-internet","descripcin":{"childMarkdownRemark":{"html":"<p>La velocidad de navegación por Internet es una de las pocas formas que tenemos para medir su rendimiento. No obstante, y como ya hemos explicado, aquí debemos distinguir entre velocidad de subida y velocidad de bajada según el sentido de la información entre el usuario e Internet. Para intentar aclarar un poco más conceptos sobre un test de velocidad o una medición, vamos a ver cómo funciona, para qué se utiliza, qué puede medir o cuál es la velocidad de ADSL o fibra.!</p>"}}}},"pageContext":{"slug":"la-velocidad-de-internet"}},
+    "staticQueryHashes": []}

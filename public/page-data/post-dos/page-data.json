@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-project-details-js",
+    "path": "/post-dos",
+    "result": {"data":{"contentfulPost":{"titulo":"Post dos","slug":"post-dos","descripcin":{"childMarkdownRemark":{"html":"<p>prueba numero dos de un post pero sin imagen</p>"}}}},"pageContext":{"slug":"post-dos"}},
+    "staticQueryHashes": []}

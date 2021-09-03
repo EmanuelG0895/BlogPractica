@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-project-details-js",
+    "path": "/titulo-uno",
+    "result": {"data":{"contentfulPost":{"titulo":"Titulo uno","slug":"titulo-uno","descripcin":{"childMarkdownRemark":{"html":"<p><img src=\"//images.contentful.com/lt7586w3ap3b/3RL1alF8QeXGlg3eG2HLy1/b54bebbee2c38f2066d00ad783709755/testInternet.jpeg\" alt=\"testInternet\">\ndescripcion del post</p>"}}}},"pageContext":{"slug":"titulo-uno"}},
+    "staticQueryHashes": []}
