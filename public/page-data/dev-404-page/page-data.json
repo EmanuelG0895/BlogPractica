@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---cache-dev-404-page-js",
     "path": "/dev-404-page/",
-    "result": {"data":{"allSiteFunction":{"nodes":[]},"allSitePage":{"nodes":[{"path":"/padoru-post"},{"path":"/caracteristicas-de-una-laptop"},{"path":"/caracteristicas-de-un-celular"},{"path":"/la-velocidad-de-internet"},{"path":"/404.html"},{"path":"/404/"},{"path":"/entradas/"},{"path":"/"}]}},"pageContext":{}},
+    "result": {"data":{"allSiteFunction":{"nodes":[]},"allSitePage":{"nodes":[{"path":"/la-velocidad-de-internet"},{"path":"/caracteristicas-de-un-celular"},{"path":"/caracteristicas-de-una-laptop"},{"path":"/padoru-post"},{"path":"/404.html"},{"path":"/404/"},{"path":"/"}]}},"pageContext":{}},
     "staticQueryHashes": []}

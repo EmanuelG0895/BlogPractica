@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-project-details-js",
+    "path": "/post-numero-3",
+    "result": {"data":{"contentfulPost":{"titulo":"post numero 3","slug":"post-numero-3","descripcin":{"childMarkdownRemark":{"html":"<p>lorem x23</p>"}}}},"pageContext":{"slug":"post-numero-3"}},
+    "staticQueryHashes": []}
