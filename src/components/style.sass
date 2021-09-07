@@ -1,0 +1,56 @@
+body
+  font-family: 'Montserrat', sans-serif
+
+.leftcolumn
+  float: left
+  width: 75%
+
+.rightcolumn
+  float: left
+  width: 25%
+  padding-left: 20px
+
+a:link,
+a:visited,
+a:active
+  text-decoration: none
+
+.row:after
+  content: ""
+  display: table
+  clear: both
+
+.fecha-post
+  color: #999999
+  font-weight: bold
+  font-size: 13px
+  margin-top: 10px
+
+.post-completo
+  padding: 20px
+  display: flex
+  flex-direction: column
+  align-content: center
+
+.titulo-post
+  font-size: 20px
+  text-align: center
+
+.post-content
+  margin: 0 50vh
+  align-items: center
+  padding: 20px
+
+@media screen and (max-width: 800px)
+  .leftcolumn,
+  .rightcolumn
+    width: 100%
+    padding: 0
+
+@media screen and (min-width: 320px) and (max-width: 768px)
+  .post-content
+    margin: 0
+
+@media screen and (min-width: 1024px)
+  .post-content
+    margin: 0 20vh
