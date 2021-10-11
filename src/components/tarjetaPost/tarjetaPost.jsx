@@ -11,11 +11,13 @@ const TarjetaPost = ({ post }) => {
     <Link to={`/${post.node.slug}`}>
       <div className="card">
         <GatsbyImage className="blog-img" image={image} />
-        <h2 className="titulo-entrada">{post.node.titulo}</h2>
-        <p className="extracto-entrada">
-          {post.node.descripcin.childMarkdownRemark.excerpt}
-        </p>
-        <p className="fecha-post">{post.node.updatedAt}</p>
+        <div className="body-card">
+          <h2 className="titulo-entrada">{post.node.titulo}</h2>
+          <p className="extracto-entrada">
+            {post.node.descripcin.childMarkdownRemark.excerpt}
+          </p>
+          <p className="fecha-post">{post.node.updatedAt}</p>
+        </div>
       </div>
     </Link>
   )

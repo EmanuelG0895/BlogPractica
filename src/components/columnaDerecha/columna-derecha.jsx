@@ -3,8 +3,8 @@ import "./columna-derecha.sass"
 
 const ColumnaDerecha = () => {
   return (
-    <div className="ultimo-post">
-      <div class="card">
+    <div>
+      <div className="about-me">
         <h5> About Me </h5>
         <p>
           Sed pellentesque nibh enim, quis euismod enim lacinia nec. Phasellus
@@ -12,10 +12,12 @@ const ColumnaDerecha = () => {
           pellentesque nibh enim, quis euismod enim lacinia nec.
         </p>
       </div>
-      <div class="card">
-        <h5> Ultimo post </h5>
-        <p>titulo del post</p>
-        <p>Fecha post</p>
+      <div className="ultimo-post">
+        <div className="card">
+          <h5> Ultimo post </h5>
+          <p>titulo del post</p>
+          <p>Fecha post</p>
+        </div>
       </div>
       <div />
     </div>

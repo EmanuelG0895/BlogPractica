@@ -5,6 +5,9 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-sass`,
+    `gatsby-plugin-image`,
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
     {
       resolve: `gatsby-plugin-webfonts`,
       options: {
@@ -32,8 +35,7 @@ module.exports = {
         },
       },
     },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-image`,
+
     {
       resolve: "gatsby-source-contentful",
       options: {
